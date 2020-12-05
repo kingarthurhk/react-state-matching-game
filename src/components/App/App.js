@@ -25,10 +25,9 @@ toBeCleared: null,
 tiles: createTiles(state.numTiles)
 }))
 
-}
-
-
 };
+
+
 
   render() {
   return (
