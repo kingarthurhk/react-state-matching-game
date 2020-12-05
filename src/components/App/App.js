@@ -23,11 +23,8 @@ playing: true,
 previousTileIndex: null,
 toBeCleared: null,
 tiles: createTiles(state.numTiles)
-
 }))
 
-
-}
 }
 
 
