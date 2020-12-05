@@ -24,7 +24,7 @@ toBeCleared: null
       <header className="App-header">
         Turbo-Matcher
       </header>
-        <OptionsPanel />
+        <OptionsPanel playing={this.state.playing} numTiles={this.state.numTiles}/>
         <Board />
       }
     </div>
