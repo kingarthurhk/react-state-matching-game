@@ -28,7 +28,7 @@ tiles: createTiles(state.numTiles)
 }
 
 
-}
+};
 
   render() {
   return (
